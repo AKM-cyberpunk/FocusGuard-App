@@ -4,7 +4,10 @@ This is a distraction blocker app. Download the APK from the Releases section.
 
 FocusGuard - Comprehensive Documentation Data
 📋 SECTION 1: COMPLETE FEATURE LIST
+
 🛡️ Content Blocking Features
+
+
 Social Media Reels/Shorts Blocking
 YouTube Shorts - Automatically detects and blocks Shorts feed within YouTube app
 Facebook Reels - Blocks Reels section while allowing normal Facebook browsing
@@ -17,7 +20,7 @@ TikTok Lite - Complete app blocking (prevents app from opening)
 Note: Available for users who want stricter control over lightweight social media apps
 Browser Protection
 Cross-Browser Shorts/Reels Detection - Works across Chrome, Firefox, Edge, Opera, Brave, Samsung Browser, DuckDuckGo
-URL Pattern Matching - Detects shorts/reels URLs and blocks them even in browsers
+URL Pattern Matching - Detects shorts/reels URLs and blocks them even in browsers 
 Works independently of main blocking switches
 Adult Content Filter
 Keyword-Based Detection - Offline adult content blocker using keyword matching
@@ -38,6 +41,8 @@ Auto-Start on Boot - Optionally starts protection automatically after device res
 Strict Mode - Enhanced protection mode for more aggressive blocking
 
 ⏱️ Productivity Features
+
+
 Focus Session Timer
 Custom Duration - Set timer for hours, minutes, or seconds
 Quick Presets - 15, 25, 45, 60-minute quick buttons
@@ -66,6 +71,8 @@ Full-Screen Alerts - Persistent alarms that work when phone is locked
 Wake Lock - Ensures alarms trigger even in deep sleep
 
 🎨 User Experience Features
+
+
 Welcome Onboarding
 One-Time Setup - Shows comprehensive privacy policy and app guide on first launch
 Language Selection - Choose between English and Bengali
@@ -89,7 +96,10 @@ Facility Password System - Optional extra security layer
 Advanced Configurations - Power-user settings
 
 🔐 SECTION 2: REQUIRED PERMISSIONS & JUSTIFICATION
+
+
 Critical Permissions
+
 1. Accessibility Service (BIND_ACCESSIBILITY_SERVICE)
 Why Needed: Core functionality - detects on-screen content to identify Reels/Shorts
 Technical Usage:
@@ -123,6 +133,7 @@ Task reminder notifications
 Manifest Location: Line 8
 
 Boot & Persistence Permissions
+
 5. Receive Boot Completed (RECEIVE_BOOT_COMPLETED)
 Why Needed: Restores protection after device restart
 Technical Usage:
@@ -138,6 +149,8 @@ Triggers focus session completion alert
 Manifest Location: Line 22
 
 Alarm & Timer Permissions
+
+
 7. Schedule Exact Alarm (SCHEDULE_EXACT_ALARM + USE_EXACT_ALARM)
 Why Needed: Precise timing for task reminders and alarms
 Technical Usage:
@@ -160,6 +173,7 @@ Only requested, not enforced (user choice)
 Manifest Location: Line 24
 
 Security & Authentication Permissions
+
 10. Use Biometric (USE_BIOMETRIC)
 Why Needed: Biometric authentication for password-protected settings
 Technical Usage:
@@ -178,6 +192,8 @@ Manifest Location: Line 11
 ❌ STORAGE (External) - Uses only internal app storage (DataStore)
 
 🧭 SECTION 3: USER GUIDE & NAVIGATION
+
+
 App Flow Overview
 First Launch:
 Welcome Screen (Language Selection) → Policy Acceptance → Dashboard
@@ -244,7 +260,10 @@ Cancel Session:
 Confirms cancellation, unlocks all switches
 
 Settings Screen
+
 How to Access:
+
+
 Tap "Guarded Apps" card on Dashboard
 OR tap three-dot menu → "Settings"
 OR navigate via bottom bar (if added)
@@ -295,7 +314,10 @@ Active switches glow with app-specific colors (YouTube=Red, Facebook=Blue, etc.)
 "Monitoring feed" text appears when switch is ON
 
 To-Do Screen
+
 How to Access:
+
+
 Tap "To-Do" in bottom navigation bar
 Features:
 Add new tasks with natural language
@@ -305,7 +327,10 @@ Mark tasks complete
 Set task alarms/reminders
 
 Permission Dashboard
+
 How to Access:
+
+
 Tap the permission alert banner on Dashboard
 OR navigate from Settings
 What It Shows:
@@ -320,6 +345,8 @@ Each permission shows:
 "Grant Permission" button that opens system settings
 
 🔒 SECTION 4: TECHNICAL HIGHLIGHTS (PRIVACY & SECURITY)
+
+
 Privacy Guarantees
 1. 100% Offline Operation
 No INTERNET Permission - App does not and cannot access the internet
@@ -343,6 +370,8 @@ No Obfuscation: Code is readable and verifiable
 Community Auditable: Anyone can verify no malicious behavior
 
 Security Features
+
+
 1. Password Protection
 Facility Password: Optional extra security layer for Hidden Features
 Biometric Support: Uses Android's secure BiometricPrompt API
@@ -427,19 +456,33 @@ Open Source - Full source code available for inspection
 📝 Summary for Content Writers
 Key Selling Points:
 🔒 100% Offline & Private - No internet access, all processing on-device
+
 🎯 Intelligent Blocking - Blocks Reels/Shorts while keeping normal feeds working
+
 ⏱️ Productivity Tools - Focus timer, daily goals, smart to-do list
+
 🛡️ Anti-Uninstall - Prevents self-sabotage during focus sessions
+
 🌐 Multilingual - Works across English, Bengali, Chinese interfaces
+
 ⚡ Battery Friendly - <2% daily battery usage
+
 🆓 Completely Free - No ads, no premium features, no catch
+
 📖 Open Source - Transparent, auditable code on GitHub
+
 Target Audience:
 Students preparing for exams
+
 Professionals fighting social media addiction
+
 Parents setting up protection for teenagers
+
 Anyone wanting to reclaim time from infinite scrolling
+
 Comparison to Alternatives:
+
+
 Unlike Screen Time: More intelligent (blocks only Reels, not entire apps)
 Unlike Forest: No gamification, pure utility focus
 Unlike Digital Wellbeing: Works across all manufacturers, more granular control
