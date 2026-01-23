@@ -1,10 +1,11 @@
 # FocusGuard App
 This is a distraction blocker app. 
+![IMG_20260123_110506](https://github.com/user-attachments/assets/a658b22b-5987-4c5d-91bb-3b215212a05d)
 
 Download Focusguard Below :
 
 [![Download Focusguard APK](https://img.shields.io/badge/Download-v2.4.0-blue?style=for-the-badge&logo=android)](https://github.com/AKM-cyberpunk/FocusGuard-App/releases/download/v2.4.0/FocusGuard.apk)
-![IMG_20260123_110506](https://github.com/user-attachments/assets/13afbff9-b24a-4565-b4f5-f822abe0f705)
+
 
 
 
