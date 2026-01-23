@@ -1,14 +1,5 @@
 # FocusGuard App
 This is a distraction blocker app. 
-![IMG_20260123_110230](https://github.com/user-attachments/assets/1532606d-0a64-4f00-a66f-eddd58995c5b)
-![IMG_20260123_110320](https://github.com/user-attachments/assets/a766ba18-af5c-41af-919b-4bdc427f5839)
-![IMG_20260123_110506](https://github.com/user-attachments/assets/675e5b7c-a0b9-47ef-821a-ad3c3065bf0a)
-![IMG_20260123_110553](https://github.com/user-attachments/assets/c579d250-eba5-47a9-9cbb-d33dc921bdcf)
-
-
-
-
-
 
 
 
@@ -20,6 +11,12 @@ Download Focusguard Below :
 
 
 
+
+
+![IMG_20260123_110230](https://github.com/user-attachments/assets/1532606d-0a64-4f00-a66f-eddd58995c5b)
+![IMG_20260123_110320](https://github.com/user-attachments/assets/a766ba18-af5c-41af-919b-4bdc427f5839)
+![IMG_20260123_110506](https://github.com/user-attachments/assets/675e5b7c-a0b9-47ef-821a-ad3c3065bf0a)
+![IMG_20260123_110553](https://github.com/user-attachments/assets/c579d250-eba5-47a9-9cbb-d33dc921bdcf)
 
 
 
